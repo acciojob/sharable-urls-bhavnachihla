@@ -1,1 +1,28 @@
 
+body {
+      font-family: Arial, sans-serif;
+      text-align: center;
+      margin: 50px;
+    }
+
+    form {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+
+    label {
+      margin-bottom: 10px;
+    }
+
+    input {
+      margin-bottom: 15px;
+    }
+
+    #button {
+      cursor: pointer;
+    }
+
+    #url {
+      margin-top: 20px;
+    }
